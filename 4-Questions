@@ -1,0 +1,5 @@
+Why can you only use certain pins for analogWrite()?
+Because only certian pins will respond to this function.
+
+What is the range the map() function maps the value to? Why this range?
+It ranges from low boundary to high boundary.Because the boundary inside the range is desired. 
